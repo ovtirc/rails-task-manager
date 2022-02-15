@@ -13,3 +13,61 @@
  *= require_tree .
  *= require_self
  */
+
+ul{
+  list-style: none;
+  font-family: 'Questrial', sans-serif;
+}
+
+.fas{
+  margin: 10px;
+}
+
+h1{
+  font-family: 'Spartan',
+  sans-serif;
+  font-size: 40px;
+}
+
+a{
+  text-decoration: none;
+  padding: 20px;
+}
+
+h2{
+
+  font-family: 'Questrial',
+  sans-serif;
+}
+
+.btn{
+  font-family: 'Spartan',
+  sans-serif;
+}
+
+.task_details{
+  font-family: 'Questrial',
+  sans-serif;
+}
+
+.status{
+  font-family: 'Spartan',
+  sans-serif;
+}
+
+.task_btns{
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.button1{
+  padding: 30px;
+  font-family: 'Spartan',
+  sans-serif;
+}
+
+.form{
+  font-family: 'Questrial',
+  sans-serif;
+}
